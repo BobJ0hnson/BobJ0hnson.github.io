@@ -1,12 +1,12 @@
 body {
-    background: #fae1d7;
+    background: #fffefd;
     margin: 0;
 }
 
 /* header styles */
 
 .header-container {
-    background: #f1d0d0;
+    background: #9dedff;
     display: grid;
     grid-template-columns: 3fr 1fr 1fr 1fr 3fr;
     height: 42px;
@@ -28,7 +28,7 @@ body {
 
 .header-item:hover {
     cursor: pointer;
-    background: #f5bca5;
+    background: #4aafc6;
 }
 
 .header-container > a {
@@ -90,7 +90,7 @@ body {
 
 .feature-paginator button {
     border: none;
-    background: #f5bca5;
+    background: #0e757e;
     height: 40px;
     cursor: pointer;
     border-radius: 50px;
